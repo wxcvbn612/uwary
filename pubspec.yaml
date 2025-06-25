@@ -17,7 +17,7 @@ dependencies:
   device_info_plus: ^11.3.3
   dart_ipify: ^1.1.1
 
-  apple_pay_flutter: ^
+  apple_pay_flutter:
     git:
       url: https://github.com/Concerto-hub/apple_pay_flutter.git
   package_info_plus: ^8.3.0
